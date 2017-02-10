@@ -18,6 +18,10 @@
 
     [![HTML5,CSS3 and JS](https://github.com/Iggy-Codes/logo-images/blob/master/logos/html5-css3-js.png)](http://www.w3.org/)  
 
+[![Bootstrap](https://github.com/Iggy-Codes/logo-images/blob/master/logos/bootstrap.png)](http://getbootstrap.com/)
+
+    [![Bootstrap](https://github.com/Iggy-Codes/logo-images/blob/master/logos/bootstrap.png)](http://getbootstrap.com/)  
+
 [![Bower](https://github.com/Iggy-Codes/logo-images/blob/master/logos/bower.png)](https://bower.io//)
 
     [![HTML5 and CSS3](https://github.com/Iggy-Codes/logo-images/blob/master/logos/html5andcss3.png)](http://www.w3.org/)  
