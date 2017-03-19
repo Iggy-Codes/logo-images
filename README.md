@@ -58,6 +58,10 @@
 
     [![AJAX](https://github.com/Iggy-Codes/logo-images/blob/master/logos/ajax.png)](https://developer.mozilla.org/en-US/docs/AJAX/)  
 
+[![jQuery](https://github.com/Iggy-Codes/logo-images/blob/master/logos/jquery.png)](http://jquery.com/)
+
+    [![jQuery](https://github.com/Iggy-Codes/logo-images/blob/master/logos/jquery.png)](http://jquery.com/)  
+
 [![Skylab](https://github.com/Iggy-Codes/logo-images/blob/master/logos/skylab-128.png)](http://www.skylabcoders.com/)
 
     [![Skylab](https://github.com/Iggy-Codes/logo-images/blob/master/logos/skylab-128.png)](http://www.skylabcoders.com/)  
