@@ -42,6 +42,10 @@
 
     [![ExpressJS](https://github.com/Iggy-Codes/logo-images/blob/master/logos/expressjs.png)](http://www.expressjs.com/)  
 
+[![Pug](https://github.com/Iggy-Codes/logo-images/blob/master/logos/pug.png)](http://expressjs.com///)
+
+    [![ExpressJS](https://github.com/Iggy-Codes/logo-images/blob/master/logos/pug.png)](http://www.pugjs.com/)  
+
 [![Skylab](https://github.com/Iggy-Codes/logo-images/blob/master/logos/skylab-128.png)](http://www.skylabcoders.com//)
 
     [![Skylab](https://github.com/Iggy-Codes/logo-images/blob/master/logos/skylab-128.png)](http://www.skylabcoders.com/)  
