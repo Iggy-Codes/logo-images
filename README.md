@@ -30,6 +30,18 @@
 
     [![SASS](https://github.com/Iggy-Codes/logo-images/blob/master/logos/sass.png)](http://www.w3.org/)  
 
+[![NodeJS](https://github.com/Iggy-Codes/logo-images/blob/master/logos/nodejs.png)](https://nodejs.org/)
+
+    [![NodeJS](https://github.com/Iggy-Codes/logo-images/blob/master/logos/nodejs.png)](https://nodejs.org/)
+
+[![MongoDB](https://github.com/Iggy-Codes/logo-images/blob/master/logos/mongodb.png)](https://www.mongodb.com/)
+
+    [![MongoDB](https://github.com/Iggy-Codes/logo-images/blob/master/logos/mongodb.png)](https://www.mongodb.com/)
+
+[![ExpressJS](https://github.com/Iggy-Codes/logo-images/blob/master/logos/express.png)](http://expressjs.com///)
+
+    [![ExpressJS](https://github.com/Iggy-Codes/logo-images/blob/master/logos/express.png)](http://www.expressjs.com/)  
+
 [![Skylab](https://github.com/Iggy-Codes/logo-images/blob/master/logos/skylab-128.png)](http://www.skylabcoders.com//)
 
     [![Skylab](https://github.com/Iggy-Codes/logo-images/blob/master/logos/skylab-128.png)](http://www.skylabcoders.com/)  
@@ -37,9 +49,6 @@
 [![Skylab](https://github.com/Iggy-Codes/logo-images/blob/master/logos/skylab-56.png)](http://www.skylabcoders.com/)
 
     [![Skylab](https://github.com/Iggy-Codes/logo-images/blob/master/logos/skylab-56.png)](http://www.skylabcoders.com/)  
-
-
-
 
 ---  
   
