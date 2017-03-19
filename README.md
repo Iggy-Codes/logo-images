@@ -64,7 +64,7 @@
 
 [![jasmine](https://github.com/Iggy-Codes/logo-images/blob/master/logos/jasmine.png)](https://jasmine.github.io/)
 
-    [![jQuery](https://github.com/Iggy-Codes/logo-images/blob/master/logos/jasmine.png)](https://jasmine.github.io/)  
+    [![jasmine](https://github.com/Iggy-Codes/logo-images/blob/master/logos/jasmine.png)](https://jasmine.github.io/)  
 
 [![Skylab](https://github.com/Iggy-Codes/logo-images/blob/master/logos/skylab-128.png)](http://www.skylabcoders.com/)
 
