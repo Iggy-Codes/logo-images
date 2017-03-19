@@ -24,7 +24,7 @@
 
 [![Bower](https://github.com/Iggy-Codes/logo-images/blob/master/logos/bower.png)](https://bower.io//)
 
-    [![HTML5 and CSS3](https://github.com/Iggy-Codes/logo-images/blob/master/logos/html5andcss3.png)](http://www.w3.org/)  
+    [![Bower](https://github.com/Iggy-Codes/logo-images/blob/master/logos/bower.png)](http://bower.io/)  
   
 [![SASS](https://github.com/Iggy-Codes/logo-images/blob/master/logos/sass.png)](http://sass-lang.com/)
 
