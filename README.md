@@ -44,7 +44,7 @@
 
 [![Pug](https://github.com/Iggy-Codes/logo-images/blob/master/logos/pug.png)](http://expressjs.com///)
 
-    [![ExpressJS](https://github.com/Iggy-Codes/logo-images/blob/master/logos/pug.png)](http://www.pugjs.com/)  
+    [![PugJS](https://github.com/Iggy-Codes/logo-images/blob/master/logos/pug.png)](http://www.pugjs.org/)  
 
 [![Skylab](https://github.com/Iggy-Codes/logo-images/blob/master/logos/skylab-128.png)](http://www.skylabcoders.com//)
 
