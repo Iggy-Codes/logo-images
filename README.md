@@ -38,9 +38,9 @@
 
     [![MongoDB](https://github.com/Iggy-Codes/logo-images/blob/master/logos/mongodb.png)](https://www.mongodb.com/)
 
-[![ExpressJS](https://github.com/Iggy-Codes/logo-images/blob/master/logos/express.png)](http://expressjs.com///)
+[![ExpressJS](https://github.com/Iggy-Codes/logo-images/blob/master/logos/expressjs.png)](http://expressjs.com///)
 
-    [![ExpressJS](https://github.com/Iggy-Codes/logo-images/blob/master/logos/express.png)](http://www.expressjs.com/)  
+    [![ExpressJS](https://github.com/Iggy-Codes/logo-images/blob/master/logos/expressjs.png)](http://www.expressjs.com/)  
 
 [![Skylab](https://github.com/Iggy-Codes/logo-images/blob/master/logos/skylab-128.png)](http://www.skylabcoders.com//)
 
