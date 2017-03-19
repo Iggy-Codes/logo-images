@@ -54,7 +54,11 @@
 
     [![NodeSchool](https://github.com/Iggy-Codes/logo-images/blob/master/logos/node-school.png)](http://nodeschool.io/)  
 
-[![Skylab](https://github.com/Iggy-Codes/logo-images/blob/master/logos/skylab-128.png)](http://www.skylabcoders.com//)
+[![AJAX](https://github.com/Iggy-Codes/logo-images/blob/master/logos/ajax.png)](https://developer.mozilla.org/en-US/docs/AJAX/)
+
+    [![AJAX](https://github.com/Iggy-Codes/logo-images/blob/master/logos/ajax.png)](https://developer.mozilla.org/en-US/docs/AJAX/)  
+
+[![Skylab](https://github.com/Iggy-Codes/logo-images/blob/master/logos/skylab-128.png)](http://www.skylabcoders.com/)
 
     [![Skylab](https://github.com/Iggy-Codes/logo-images/blob/master/logos/skylab-128.png)](http://www.skylabcoders.com/)  
 
