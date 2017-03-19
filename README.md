@@ -12,7 +12,7 @@
 
 [![JavaScript](https://github.com/Iggy-Codes/logo-images/blob/master/logos/js.png)](https://www.w3.org/)
 
-    [![JavaScript](https://github.com/Iggy-Codes/logo-images/blob/master/logos/html5andcss3.png)](http://www.w3.org/)
+    [![JavaScript](https://github.com/Iggy-Codes/logo-images/blob/master/logos/js.png)](http://www.w3.org/)
   
 [![HTML5, CSS3 and JS](https://github.com/Iggy-Codes/logo-images/blob/master/logos/html5-css3-js.png)](https://www.w3.org/)
 
