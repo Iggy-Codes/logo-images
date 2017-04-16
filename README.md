@@ -61,7 +61,9 @@
 [![jQuery](https://github.com/Iggy-Codes/logo-images/blob/master/logos/jquery.png)](http://jquery.com/)
 
     [![jQuery](https://github.com/Iggy-Codes/logo-images/blob/master/logos/jquery.png)](http://jquery.com/)  
+[![Backbone](https://github.com/Iggy-Codes/logo-images/blob/master/logos/backbone.png)](http://jquery.com/)
 
+    [![Backbone](https://github.com/Iggy-Codes/logo-images/blob/master/logos/backbone.png)](http://backbonejs.org/)  
 [![jasmine](https://github.com/Iggy-Codes/logo-images/blob/master/logos/jasmine.png)](https://jasmine.github.io/)
 
     [![jasmine](https://github.com/Iggy-Codes/logo-images/blob/master/logos/jasmine.png)](https://jasmine.github.io/)  
