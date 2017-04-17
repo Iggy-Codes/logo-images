@@ -84,12 +84,12 @@
 ---  
   
 ##### To use the StandardJS Style logo on projects, the code must meet standards set in [standardjs.com](http://standardjs.com/)
-[![Standard - JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+[![Standard - JavaScript Style Guide](https://github.com/Iggy-Codes/logo-images/blob/master/logos/js-standard.png)](https://github.com/feross/standard)
 
-    [![Standard - JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+    [![Standard - JavaScript Style Guide](https://github.com/Iggy-Codes/logo-images/blob/master/logos/js-standard.png)](https://github.com/feross/standard)
 
-[![Standard - JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
+[![Standard - JavaScript Style Guide](https://github.com/Iggy-Codes/logo-images/blob/master/logos/js-standard-style.png)](http://standardjs.com/)
 
-    [![Standard - JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
+    [![Standard - JavaScript Style Guide](https://github.com/Iggy-Codes/logo-images/blob/master/logos/js-standard-style.png)](http://standardjs.com/)
 
 ---
