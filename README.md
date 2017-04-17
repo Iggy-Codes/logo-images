@@ -88,8 +88,8 @@
 
     [![Standard - JavaScript Style Guide](https://github.com/Iggy-Codes/logo-images/blob/master/logos/js-standard.png)](https://github.com/feross/standard)
 
-[![Standard - JavaScript Style Guide](https://github.com/Iggy-Codes/logo-images/blob/master/logos/js-standard-style.png)](http://standardjs.com/)
+[![Standard - JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](http://standardjs.com/)
 
-    [![Standard - JavaScript Style Guide](https://github.com/Iggy-Codes/logo-images/blob/master/logos/js-standard-style.png)](http://standardjs.com/)
+    [![Standard - JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](http://standardjs.com/)
 
 ---
