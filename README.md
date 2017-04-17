@@ -10,13 +10,18 @@
 
     [![HTML5 and CSS3](https://github.com/Iggy-Codes/logo-images/blob/master/logos/html5andcss3.png)](http://www.w3.org/)  
 
-[![JavaScript](https://github.com/Iggy-Codes/logo-images/blob/master/logos/js.png)](https://www.w3.org/)
-
-    [![JavaScript](https://github.com/Iggy-Codes/logo-images/blob/master/logos/js.png)](http://www.w3.org/)
-  
 [![HTML5, CSS3 and JS](https://github.com/Iggy-Codes/logo-images/blob/master/logos/html5-css3-js.png)](https://www.w3.org/)
 
     [![HTML5,CSS3 and JS](https://github.com/Iggy-Codes/logo-images/blob/master/logos/html5-css3-js.png)](http://www.w3.org/)  
+
+[![JavaScript](https://github.com/Iggy-Codes/logo-images/blob/master/logos/js.png)](https://www.w3.org/)
+
+    [![JavaScript](https://github.com/Iggy-Codes/logo-images/blob/master/logos/js.png)](http://www.w3.org/)
+
+[![ES6](https://github.com/Iggy-Codes/logo-images/blob/master/logos/es6.png)](http://www.ecma-international.org/ecma-262/6.0/)
+
+    [![ES6](https://github.com/Iggy-Codes/logo-images/blob/master/logos/es6.png)](http://www.ecma-international.org/ecma-262/6.0/)
+  
 
 [![Bootstrap](https://github.com/Iggy-Codes/logo-images/blob/master/logos/bootstrap.png)](http://getbootstrap.com/)
 
@@ -61,7 +66,7 @@
 [![jQuery](https://github.com/Iggy-Codes/logo-images/blob/master/logos/jquery.png)](http://jquery.com/)
 
     [![jQuery](https://github.com/Iggy-Codes/logo-images/blob/master/logos/jquery.png)](http://jquery.com/)  
-[![Backbone](https://github.com/Iggy-Codes/logo-images/blob/master/logos/backbone.png)](http://jquery.com/)
+[![Backbone](https://github.com/Iggy-Codes/logo-images/blob/master/logos/backbone.png)](http://backbonejs.org/)
 
     [![Backbone](https://github.com/Iggy-Codes/logo-images/blob/master/logos/backbone.png)](http://backbonejs.org/)  
 [![jasmine](https://github.com/Iggy-Codes/logo-images/blob/master/logos/jasmine.png)](https://jasmine.github.io/)
